@@ -1,0 +1,8 @@
+cosmos_uri="https://<your cosmosdb resource>.documents.azure.com:443/"
+cosmos_readwrite_key=""
+cosmos_readonly_key=""
+openai_endpoint="https://<your openai resource>.openai.azure.com/"
+openai_key=""
+openai_api_version="2024-10-21"
+openai_embeddings_deployment="text-embedding-3-small"
+openai_completions_deployment="gpt-4o-mini"
